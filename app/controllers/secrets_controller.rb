@@ -1,2 +1,7 @@
-class SecretsController < ApplicationController
+class SecretController < ApplicationController
+
+  def show
+
+  end
+
 end
